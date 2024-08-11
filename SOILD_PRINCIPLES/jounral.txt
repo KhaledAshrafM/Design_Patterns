@@ -1,4 +1,0 @@
-1: I code one program
-2: I ate icecream
-3: I code one program
-4: I ate icecream
